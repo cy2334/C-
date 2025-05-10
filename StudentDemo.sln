@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDemo", "OOPDemo\OOPDemo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDemo", "SingletonDemo\SingletonDemo.csproj", "{87AC025E-8460-49CB-B62B-B13F28BA6C73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPatternDemo", "FactoryPatternDemo\FactoryPatternDemo.csproj", "{F443A0F1-FDE2-4B78-83C6-1770720AD523}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{87AC025E-8460-49CB-B62B-B13F28BA6C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87AC025E-8460-49CB-B62B-B13F28BA6C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87AC025E-8460-49CB-B62B-B13F28BA6C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F443A0F1-FDE2-4B78-83C6-1770720AD523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F443A0F1-FDE2-4B78-83C6-1770720AD523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F443A0F1-FDE2-4B78-83C6-1770720AD523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F443A0F1-FDE2-4B78-83C6-1770720AD523}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
