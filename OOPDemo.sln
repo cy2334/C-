@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDemo", "OOPDemo\OOPDemo.csproj", "{63F4BE6A-6071-461C-BF75-6FF36394AFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDemo", "SingletonDemo\SingletonDemo.csproj", "{87AC025E-8460-49CB-B62B-B13F28BA6C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F4BE6A-6071-461C-BF75-6FF36394AFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F4BE6A-6071-461C-BF75-6FF36394AFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F4BE6A-6071-461C-BF75-6FF36394AFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F4BE6A-6071-461C-BF75-6FF36394AFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AC025E-8460-49CB-B62B-B13F28BA6C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AC025E-8460-49CB-B62B-B13F28BA6C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AC025E-8460-49CB-B62B-B13F28BA6C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AC025E-8460-49CB-B62B-B13F28BA6C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

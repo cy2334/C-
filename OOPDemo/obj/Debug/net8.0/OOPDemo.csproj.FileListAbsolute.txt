@@ -1,0 +1,14 @@
+D:\workspace\Rider\OOPDemo\OOPDemo\bin\Debug\net8.0\OOPDemo.exe
+D:\workspace\Rider\OOPDemo\OOPDemo\bin\Debug\net8.0\OOPDemo.deps.json
+D:\workspace\Rider\OOPDemo\OOPDemo\bin\Debug\net8.0\OOPDemo.runtimeconfig.json
+D:\workspace\Rider\OOPDemo\OOPDemo\bin\Debug\net8.0\OOPDemo.dll
+D:\workspace\Rider\OOPDemo\OOPDemo\bin\Debug\net8.0\OOPDemo.pdb
+D:\workspace\Rider\OOPDemo\OOPDemo\obj\Debug\net8.0\OOPDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Rider\OOPDemo\OOPDemo\obj\Debug\net8.0\OOPDemo.AssemblyInfoInputs.cache
+D:\workspace\Rider\OOPDemo\OOPDemo\obj\Debug\net8.0\OOPDemo.AssemblyInfo.cs
+D:\workspace\Rider\OOPDemo\OOPDemo\obj\Debug\net8.0\OOPDemo.csproj.CoreCompileInputs.cache
+D:\workspace\Rider\OOPDemo\OOPDemo\obj\Debug\net8.0\OOPDemo.dll
+D:\workspace\Rider\OOPDemo\OOPDemo\obj\Debug\net8.0\refint\OOPDemo.dll
+D:\workspace\Rider\OOPDemo\OOPDemo\obj\Debug\net8.0\OOPDemo.pdb
+D:\workspace\Rider\OOPDemo\OOPDemo\obj\Debug\net8.0\OOPDemo.genruntimeconfig.cache
+D:\workspace\Rider\OOPDemo\OOPDemo\obj\Debug\net8.0\ref\OOPDemo.dll
