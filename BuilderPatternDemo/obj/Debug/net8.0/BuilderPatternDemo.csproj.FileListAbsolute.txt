@@ -1,0 +1,15 @@
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\bin\Debug\net8.0\BuilderPatternDemo.exe
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\bin\Debug\net8.0\BuilderPatternDemo.deps.json
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\bin\Debug\net8.0\BuilderPatternDemo.runtimeconfig.json
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\bin\Debug\net8.0\BuilderPatternDemo.dll
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\bin\Debug\net8.0\BuilderPatternDemo.pdb
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.AssemblyInfoInputs.cache
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.AssemblyInfo.cs
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.csproj.CoreCompileInputs.cache
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.sourcelink.json
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.dll
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\obj\Debug\net8.0\refint\BuilderPatternDemo.dll
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.pdb
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\obj\Debug\net8.0\BuilderPatternDemo.genruntimeconfig.cache
+D:\workspace\Rider\OOPDemo\BuilderPatternDemo\obj\Debug\net8.0\ref\BuilderPatternDemo.dll
