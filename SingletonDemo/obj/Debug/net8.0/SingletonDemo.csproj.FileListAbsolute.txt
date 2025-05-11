@@ -12,3 +12,4 @@ D:\workspace\Rider\OOPDemo\SingletonDemo\obj\Debug\net8.0\refint\SingletonDemo.d
 D:\workspace\Rider\OOPDemo\SingletonDemo\obj\Debug\net8.0\SingletonDemo.pdb
 D:\workspace\Rider\OOPDemo\SingletonDemo\obj\Debug\net8.0\SingletonDemo.genruntimeconfig.cache
 D:\workspace\Rider\OOPDemo\SingletonDemo\obj\Debug\net8.0\ref\SingletonDemo.dll
+D:\workspace\Rider\OOPDemo\SingletonDemo\obj\Debug\net8.0\SingletonDemo.sourcelink.json
