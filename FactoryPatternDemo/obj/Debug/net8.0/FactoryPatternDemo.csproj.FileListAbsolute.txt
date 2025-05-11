@@ -1,0 +1,15 @@
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\bin\Debug\net8.0\FactoryPatternDemo.exe
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\bin\Debug\net8.0\FactoryPatternDemo.deps.json
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\bin\Debug\net8.0\FactoryPatternDemo.runtimeconfig.json
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\bin\Debug\net8.0\FactoryPatternDemo.dll
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\bin\Debug\net8.0\FactoryPatternDemo.pdb
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.AssemblyInfoInputs.cache
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.AssemblyInfo.cs
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.csproj.CoreCompileInputs.cache
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.sourcelink.json
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.dll
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\obj\Debug\net8.0\refint\FactoryPatternDemo.dll
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.pdb
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.genruntimeconfig.cache
+D:\workspace\Rider\OOPDemo\FactoryPatternDemo\obj\Debug\net8.0\ref\FactoryPatternDemo.dll
