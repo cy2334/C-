@@ -4,34 +4,40 @@ public class LowEndComputerBuilder :IComputerBuilder
 {
     private Computer _computer = new Computer();
 
-    public void BuildCPU(string cpu)
+    public IComputerBuilder BuildCPU(string cpu)
     {
         _computer.CPU = $"基础款 {cpu}";
+        return this;
     }
 
-    public void BuildMemory(string memory)
+    public IComputerBuilder BuildMemory(string memory)
     {
         _computer.Memory = $"{memory} DDR4";
+        return this;
     }
 
-    public void BuildHardDisk(string disk)
+    public IComputerBuilder BuildHardDisk(string disk)
     {
         _computer.HardDisk = $"{disk} HDD";
+        return this;
     }
 
-    public void BuildGraphicsCard(string card)
+    public IComputerBuilder BuildGraphicsCard(string card)
     {
         // 低配电脑不安装独立显卡
         _computer.GraphicsCard = "集成显卡";
+        return this;
     }
 
-    public void BuildMonitor(string monitor)
+    public IComputerBuilder BuildMonitor(string monitor)
     {
         _computer.Monitor = $"{monitor} 1080P";
+        return this;
     }
 
-    public Computer GetComputer()
+    public Computer Build()
     {
         return _computer;
     }
+    
 }

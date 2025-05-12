@@ -4,32 +4,37 @@ public class HighEndComputerBuilder :IComputerBuilder
 {
     private Computer _computer = new Computer();
 
-    public void BuildCPU(string cpu)
+    public IComputerBuilder BuildCPU(string cpu)
     {
-        _computer.CPU = $"高性能{cpu}";
+        _computer.CPU = $"高性能 {cpu}";
+        return this;  // 返回自身以支持链式调用
     }
 
-    public void BuildMemory(string memory)
+    public IComputerBuilder BuildMemory(string memory)
     {
         _computer.Memory = $"{memory} DDR5";
+        return this;
     }
 
-    public void BuildHardDisk(string disk)
+    public IComputerBuilder BuildHardDisk(string disk)
     {
         _computer.HardDisk = $"{disk} SSD";
+        return this;
     }
 
-    public void BuildGraphicsCard(string card)
+    public IComputerBuilder BuildGraphicsCard(string card)
     {
         _computer.GraphicsCard = $"{card} RTX 4090";
+        return this;
     }
 
-    public void BuildMonitor(string monitor)
+    public IComputerBuilder BuildMonitor(string monitor)
     {
         _computer.Monitor = $"{monitor} 4K 144Hz";
+        return this;
     }
 
-    public Computer GetComputer()
+    public Computer Build()
     {
         return _computer;
     }
