@@ -1,0 +1,15 @@
+D:\workspace\Rider\OOPDemo\Algorithms\bin\Debug\net8.0\Algorithms.exe
+D:\workspace\Rider\OOPDemo\Algorithms\bin\Debug\net8.0\Algorithms.deps.json
+D:\workspace\Rider\OOPDemo\Algorithms\bin\Debug\net8.0\Algorithms.runtimeconfig.json
+D:\workspace\Rider\OOPDemo\Algorithms\bin\Debug\net8.0\Algorithms.dll
+D:\workspace\Rider\OOPDemo\Algorithms\bin\Debug\net8.0\Algorithms.pdb
+D:\workspace\Rider\OOPDemo\Algorithms\obj\Debug\net8.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Rider\OOPDemo\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfoInputs.cache
+D:\workspace\Rider\OOPDemo\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfo.cs
+D:\workspace\Rider\OOPDemo\Algorithms\obj\Debug\net8.0\Algorithms.csproj.CoreCompileInputs.cache
+D:\workspace\Rider\OOPDemo\Algorithms\obj\Debug\net8.0\Algorithms.sourcelink.json
+D:\workspace\Rider\OOPDemo\Algorithms\obj\Debug\net8.0\Algorithms.dll
+D:\workspace\Rider\OOPDemo\Algorithms\obj\Debug\net8.0\refint\Algorithms.dll
+D:\workspace\Rider\OOPDemo\Algorithms\obj\Debug\net8.0\Algorithms.pdb
+D:\workspace\Rider\OOPDemo\Algorithms\obj\Debug\net8.0\Algorithms.genruntimeconfig.cache
+D:\workspace\Rider\OOPDemo\Algorithms\obj\Debug\net8.0\ref\Algorithms.dll
