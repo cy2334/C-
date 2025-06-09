@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\Rider\\OOPDemo\\BubbleSort\\BubbleSort.csproj",
-      "projectName": "BubbleSort",
-      "projectPath": "D:\\workspace\\Rider\\OOPDemo\\BubbleSort\\BubbleSort.csproj",
+      "projectUniqueName": "D:\\workspace\\Rider\\OOPDemo\\Algorithms\\Algorithms.csproj",
+      "projectName": "Algorithms",
+      "projectPath": "D:\\workspace\\Rider\\OOPDemo\\Algorithms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\Rider\\OOPDemo\\BubbleSort\\obj\\",
+      "outputPath": "D:\\workspace\\Rider\\OOPDemo\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\result\\Visual Studio\\Shared\\NuGetPackages"
